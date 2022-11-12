@@ -25,6 +25,6 @@ The main problem that we face every day is the accidents on the streets, the hig
 ## Demo 
 
 <p align="center"> 
-  <img width="50%" height="50%" src="https://github.com/nithishrcta/Accident-Alert-System/blob/main/Images/Simulation.mp4">
+  <video width="50%" height="50%" src="https://github.com/nithishrcta/Accident-Alert-System/blob/main/Images/Simulation.mp4">
 </p>
 
