@@ -22,9 +22,7 @@ The main problem that we face every day is the accidents on the streets, the hig
   <img width="50%" height="50%" src="https://github.com/nithishrcta/Accident-Alert-System/blob/main/Images/abcd.jpg">
 </p>
 
-## Demo 
+## Demo
 
-<p align="center"> 
-  <video width="50%" height="50%" src="https://github.com/nithishrcta/Accident-Alert-System/blob/main/Images/Simulation.mp4">
-</p>
+https://user-images.githubusercontent.com/64672533/201476672-808df485-49f8-40ad-ac18-97c1f86fa665.mp4
 
