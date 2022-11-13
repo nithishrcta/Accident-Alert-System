@@ -22,8 +22,7 @@ The model acts as an accident avoidance and detection system that gathers all th
 ## How it works
 Our prototype which contain Arduino sensors Such as Vibration Sensor, GSM Sensor and a GPS Location Finder Sensor.
 Prototype will be installed on the vehicle at maximum suspicious locations so that it can easily detect if any misshaping took place. Assuming any accident took place and the sensor detects, it will directly share the Vehicle location to the nearby Ambulance as well as Hospitals. Sending Requests from the sensor to the server is automated.On receiving information, the ambulance/Hospital will get information about the incident with GPRS Location. They can easily Navigate and reach to Victim.
-![prototype](https://user-images.githubusercontent.com/64672533/201508301-ce6f9f5c-b33a-4fe4-ad98-9dba9d88a086.jpg)
-
+![prototype](https://user-images.githubusercontent.com/64672533/201508341-40ee1266-1cba-49ea-9ca8-ac1d897eb298.jpg)
 
 ## Circuit Diagram
 
